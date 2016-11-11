@@ -1,5 +1,5 @@
 # Coursera Assignments<br/>
-Repo for Coursera classwork &amp; assignments.<br/> 
+Repo for my Coursera classwork &amp; assignments.<br/> 
 <br/>
 <strong>Week 2 Assignment - Module 2 Coding Assignment</strong><br/>
 Submission for Week 2 Assignment: https://shutterrev.github.io/Coursera_assignments/module2-solution/<br/>
