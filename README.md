@@ -8,3 +8,8 @@ Assignment instructions: https://github.com/jhu-ep-coursera/fullstack-course4/bl
 <strong>Week 3 Assignment - Module 3 Coding Assignment</strong><br/>
 Submission for Week 3 Assignment: https://shutterrev.github.io/Coursera_assignments/module3-solution/<br/>
 Assignment instructions: https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md<br/>
+<br/>
+<strong>Week 4 Assignment - Module 4 Coding Assignment</strong><br/>
+Submission for Week 4 Assignment: https://shutterrev.github.io/Coursera_assignments/module4-solution/<br/>
+Assignment instructions: https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md<br/>
+
