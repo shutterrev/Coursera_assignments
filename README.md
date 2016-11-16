@@ -10,6 +10,7 @@ Submission for Week 3 Assignment: https://shutterrev.github.io/Coursera_assignme
 Assignment instructions: https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md<br/>
 <br/>
 <strong>Week 4 Assignment - Module 4 Coding Assignment</strong><br/>
+To view the JS operations in this assignment you will have to inspect the page, and view console output<br/>
 Submission for Week 4 Assignment: https://shutterrev.github.io/Coursera_assignments/module4-solution/<br/>
 Assignment instructions: https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md<br/>
 
