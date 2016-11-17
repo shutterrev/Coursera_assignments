@@ -15,4 +15,7 @@ Assignment instructions: https://github.com/jhu-ep-coursera/fullstack-course4/bl
 To view the JS operations in this assignment you will have to inspect the page, and view console output<br/>
 Submission for Week 4 Assignment: https://shutterrev.github.io/Coursera_assignments/module4-solution/<br/>
 Assignment instructions: https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md<br/>
-
+<br/>
+<strong>Week 5 Assignment - Module 5 Coding Assignment</strong><br/>
+Submission for Week 5 Assignment: https://shutterrev.github.io/Coursera_assignments/module5-solution/<br/>
+Assignment instructions: https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md<br/>
